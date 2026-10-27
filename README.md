@@ -111,7 +111,7 @@ The Tableau dashboard covers:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/Customer-Retention-Analysis.git
+git clone https://github.com/ombhore-dev/Customer-Retention-Analysis.git
 cd Customer-Retention-Analysis
 ```
 
